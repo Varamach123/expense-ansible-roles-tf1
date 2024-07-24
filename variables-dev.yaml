@@ -1,0 +1,6 @@
+login_user: root
+login_host: db-dev.awsdevops.fun
+login_password: ExpenseApp1
+DB_HOST: db-dev.awsdevops.fun
+BACKEND_API_URL: backend.app-dev.awsdevops.fun
+nexus_url: nexus.awsdevops.fun:8081
